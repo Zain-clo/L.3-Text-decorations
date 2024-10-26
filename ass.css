@@ -1,0 +1,13 @@
+h1{
+color: hotpink; text-decoration: underline;
+text-transform: uppercase;
+text-shadow: 1px 3px 1px black;
+font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+html{
+ background-image:url(cygjsjhmx.png);background-size: 240%;}
+ p{
+    color: red;
+    text-transform:capitalize;
+    text-shadow: 1px 2px 5px black;
+ }
